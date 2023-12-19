@@ -8,22 +8,24 @@ p{
     font-size: 40px;
     background-color: ;
 }
-#imagem1{
+
+#imagem1 {
     width: 80%;
     display: block;
-    margin: 30px;
+    margin: 30px 10px 30px 30px; /* Adicionei 10px de margem à direita */
     border: solid 3px black;
     padding: 15px;
-
 }
-#imagem2{
+
+#imagem2 {
     width: 50%;
-    display: block ;
-    margin: 30px;
+    display: block;
+    margin: 30px 30px 30px 10px; /* Adicionei 10px de margem à esquerda */
     float: right;
     border: solid 3px black;
     padding: 15px;
 }
+
 h2{
     color: rgb(206, 97, 7);
     font-size: 50px;
