@@ -12,10 +12,20 @@ p{
 #imagem1 {
     width: 80%;
     display: block;
-    margin: 30px 30px 30px 30px; 
+    margin: 30px auto; /* Adicionei 'auto' para centralizar horizontalmente */
     border: solid 3px black;
     padding: 15px;
 }
+
+#imagem2 {
+    width: 50%;
+    display: block;
+    margin: 30px 30px 30px 10px;
+    float: right;
+    border: solid 3px black;
+    padding: 15px;
+}
+
 
 #imagem2 {
     width: 50%;
