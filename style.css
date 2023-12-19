@@ -12,6 +12,8 @@ p{
     width: 80%;
     display: block;
     margin: auto;
+    border: solid 3px black;
+    padding: 15px;
 
 }
 #imagem2{
@@ -19,7 +21,8 @@ p{
     display: block ;
     margin: auto;
     float: right;
-   
+    border: solid 3px black;
+    padding: 15px;
 }
 h2{
     color: rgb(206, 97, 7);
