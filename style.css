@@ -1,0 +1,29 @@
+h1{
+    color:red(122, 23, 31);
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(206, 97, 7);
+}
+p{
+    font-size: 40px;
+    background-color: ;
+}
+#imagem1{
+    width: 80%;
+    display: block;
+    margin: auto;
+
+}
+#imagem2{
+    width: 50%;
+    display: block ;
+    margin: auto;
+    float: right;
+   
+}
+h2{
+    color: rgb(206, 97, 7);
+    font-size: 50px;
+    text-align: center;
+
+}
